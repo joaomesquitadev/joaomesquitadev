@@ -1,15 +1,16 @@
 <div align="center">
 
-# 👨🏻‍💻 João Vitor
+# João Vitor
 
 ### Estudante de Engenharia de Software
 
-*Brasília, DF 🌐*
+*Brasília - DF*
 
 ---
 
 Apaixonado por tecnologia e desenvolvimento web.  
-Atualmente cursando **Engenharia de Software** e construindo projetos pra aprender na prática.
+Atualmente cursando **Engenharia de Software** e construindo projetos pra aprender na prática.  
+Tenho conhecimento com **HTML e CSS** e estou aprendendo novas linguagens ao longo da faculdade.
 
 </div>
 
@@ -30,14 +31,9 @@ Atualmente cursando **Engenharia de Software** e construindo projetos pra aprend
 <div align="center">
 
 <img 
-  alt="GitHub Stats" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api?username=joaomesquitadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-/>
-<img 
   alt="Linguagens mais usadas" 
   height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomesquitadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomesquitadev&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=6&hide_border=true"
 />
 
 </div>
