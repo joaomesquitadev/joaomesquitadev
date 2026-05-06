@@ -20,9 +20,5 @@ e aprendendo novas linguagens ao longo da faculdade.
 
 ---
 
-<img
-  alt="Contribuições"
-  src="https://streak-stats.demolab.com?user=joaomesquitadev&theme=tokyonight&hide_border=true&locale=pt_BR"
-/>
 
 </div>
