@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Apaixonado+por+tecnologia" alt="Typing SVG" />
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=joaomesquitadev&color=6c63ff&style=flat&label=Visitas+no+perfil)
-
 </div>
 
 ---
