@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" alt="coding gif" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ### 👋 Sobre mim
 
 Apaixonado por tecnologia e sempre em busca de aprender coisas novas.
