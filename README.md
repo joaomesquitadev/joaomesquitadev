@@ -16,8 +16,10 @@ e aprendendo novas linguagens ao longo da faculdade.
 
 ### 🛠️ Tecnologias
 
+<div align="center">
 <img alt="HTML" title="HTML" width="45px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-&nbsp;
+&nbsp;&nbsp;
 <img alt="CSS" title="CSS" width="45px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</div>
 
 ---
