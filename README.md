@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Vitor
+# João Vitor De Mesquita
 
 #### Estudante de Engenharia de Software
 
