@@ -6,7 +6,7 @@
 
 ---
 
-Apaixonado por tecnologia e desenvolvimento web.
+Apaixonado por tecnologia e sempre em busca de aprender coisas novas.
 Atualmente cursando **Engenharia de Software**, com conhecimento em **HTML e CSS**
 e aprendendo novas linguagens ao longo da faculdade.
 
@@ -20,10 +20,8 @@ e aprendendo novas linguagens ao longo da faculdade.
 
 ---
 
-### 📊 Contribuições
-
 <img
-  alt="Estatísticas de contribuições"
+  alt="Contribuições"
   src="https://streak-stats.demolab.com?user=joaomesquitadev&theme=tokyonight&hide_border=true&locale=pt_BR"
 />
 
