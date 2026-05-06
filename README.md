@@ -20,18 +20,11 @@ e aprendendo novas linguagens ao longo da faculdade.
 
 ---
 
-### 📊 Linguagens mais usadas
+### 📊 Contribuições
 
 <img
-  alt="Linguagens mais usadas"
+  alt="Estatísticas de contribuições"
   src="https://streak-stats.demolab.com?user=joaomesquitadev&theme=tokyonight&hide_border=true&locale=pt_BR"
-/>
-
-<br/>
-
-<img
-  alt="Gráfico de atividade"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=joaomesquitadev&theme=tokyo-night&hide_border=true&area=true"
 />
 
 </div>
