@@ -7,7 +7,7 @@
 ---
 
 Apaixonado por tecnologia e desenvolvimento web.
-Atualmente cursando **Engenharia de Software**, trabalhando com **HTML e CSS**
+Atualmente cursando **Engenharia de Software**, com conhecimento em **HTML e CSS**
 e aprendendo novas linguagens ao longo da faculdade.
 
 ---
@@ -24,7 +24,7 @@ e aprendendo novas linguagens ao longo da faculdade.
 
 <img
   alt="Linguagens mais usadas"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomesquitadev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6&hide_border=true&cache_seconds=1800"
+  src="https://streak-stats.demolab.com?user=joaomesquitadev&theme=tokyonight&hide_border=true&locale=pt_BR"
 />
 
 </div>
