@@ -2,7 +2,7 @@
 
 # João Vitor De Mesquita
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Estagiário+na+EMBRATUR" alt="Typing SVG" />
+![Estudante de Engenharia de Software | Estagiário na EMBRATUR](https://img.shields.io/badge/Estudante%20de%20Engenharia%20de%20Software%20%7C%20Estagiário%20na%20EMBRATUR-6C63FF?style=for-the-badge&logoColor=white)
 
 </div>
 
