@@ -10,7 +10,7 @@
 
 Apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente cursando **Engenharia de Software**, com conhecimento em **HTML** e **CSS**, aprendendo novas linguagens ao longo da faculdade e trabalhando e aprendendo **Salesforce Marketing Cloud** e **Salesforce CRM** no meu estágio.
 
-💼 Estagiário na **EMBRATUR**
+💼 Estagiário na **Embratur**
 
 ---
 
