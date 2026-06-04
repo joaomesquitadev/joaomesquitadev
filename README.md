@@ -8,7 +8,7 @@
 
 ---
 
-Apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente cursando **Engenharia de Software**, com conhecimento em **HTML** e **CSS**, aprendendo novas linguagens ao longo da faculdade, trabalhando e aprendendo **Salesforce Marketing Cloud** e **Salesforce CRM** no meu estágio.
+Atualmente cursando **Engenharia de Software**, com conhecimento em **HTML** e **CSS**, desenvolvo novas habilidades em linguagens de programação na faculdade e trabalho com **Salesforce Marketing Cloud** e **Salesforce CRM** no estágio.
 
 
 ---
