@@ -14,8 +14,6 @@ Atualmente cursando **Engenharia de Software**, desenvolvo novas habilidades em 
 
 ### 🛠️ Tecnologia
 
-<img align="left" alt="HTML" title="HTML" width="45px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="45px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="Salesforce" title="Salesforce" width="45px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
 
 <br/><br/>
