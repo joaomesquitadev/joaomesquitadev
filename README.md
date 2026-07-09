@@ -8,8 +8,7 @@
 
 ---
 
-Atualmente cursando **Engenharia de Software**, com conhecimento em **HTML** e **CSS**, desenvolvo novas habilidades em linguagens de programação na faculdade e trabalho com **Salesforce Marketing Cloud** e **Salesforce CRM** no estágio.
-
+Atualmente cursando **Engenharia de Software**, desenvolvo novas habilidades em linguagens de programação na faculdade e trabalho com **Salesforce Marketing Cloud** e **Salesforce CRM** no estágio.
 
 ---
 
