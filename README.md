@@ -2,7 +2,7 @@
 
 # João Vitor de Mesquita
 
-(![Badge](https://img.shields.io/badge/Estagiário%20na%20EMBRATUR%20%7C%20Estudante%20de%20Engenharia%20de%20Software-6C63FF?style=for-the-badge&logoColor=white)
+![Badge](https://img.shields.io/badge/Estagiário%20na%20EMBRATUR%20%7C%20Estudante%20de%20Engenharia%20de%20Software-6C63FF?style=for-the-badge&logoColor=white)
 
 </div>
 
