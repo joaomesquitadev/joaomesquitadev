@@ -11,11 +11,3 @@
 Atualmente cursando **Engenharia de Software**, desenvolvo novas habilidades em linguagens de programação na faculdade e trabalho com **Salesforce Marketing Cloud** & **CRM** no estágio.
 
 ---
-
-### 🛠️ Tecnologia
-
-<img align="left" alt="Salesforce" title="Salesforce" width="45px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
-
-<br/><br/>
-
----
