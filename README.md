@@ -8,6 +8,6 @@
 
 ---
 
-Atualmente cursando **Engenharia de Software**, desenvolvo novas habilidades em linguagens de programação na faculdade e trabalho com **Salesforce Marketing Cloud** & **CRM** no estágio.
+Atualmente cursando **Engenharia de Software**, desenvolvo novas habilidades em linguagens de programação na faculdade e trabalho com **Salesforce** & **CRM** no estágio, onde também utilizo **TypeScript**. Em projetos pessoais, trabalho com **JavaScript**, **HTML** e **CSS**.
 
 ---
