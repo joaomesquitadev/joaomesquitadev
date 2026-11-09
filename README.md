@@ -2,7 +2,7 @@
 
 # João Vitor de Mesquita
 
-Estudante de Engenharia de Software · Estagiário na EMBRATUR
+Estudante de Engenharia de Software · Estagiário na Embratur
 
 </div>
 
